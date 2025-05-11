@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello I'm alfian wahyu 👋
 
+![good](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZoMXN6cDhvNWk5cWU5ZjJnZWVjMHRhdnU2bnU5enRsbGozZTZ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif)
 <!--
 **mikuhime12/mikuhime12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **@wpucourse**
+🌱 I’m currently learning [**laravel** ](https://laravel.com)Framework
+😸😸😸
+
+![anime](img/yuki4.jpg)

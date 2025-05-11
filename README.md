@@ -65,17 +65,8 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZoMXN6cDhvNWk5cWU5ZjJnZWVjMHRhdnU2bnU5enRsbGozZTZ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif"  />
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndleGZnaGtsdTFzdGk2c3BxMWdhMWJwajNlN25zdTVyNzB3dnozeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikuhime12/mikuhime12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikuhime12/mikuhime12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikuhime12/mikuhime12/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
